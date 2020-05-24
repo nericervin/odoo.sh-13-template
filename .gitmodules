@@ -27,3 +27,8 @@
 	path = oca/web
 	url = git@github.com:oca/web.git
 	branch = 13.0
+
+[submodule "ingadhoc/aeroo_reports"]
+	path = ingadhoc/aeroo_reports
+	url = git@github.com:ingadhoc/aeroo_reports.git
+	branch = 13.0
