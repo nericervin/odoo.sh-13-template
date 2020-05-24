@@ -22,3 +22,8 @@
 	path = ingadhoc/stock
 	url = git@github.com:ingadhoc/stock.git
 	branch = 13.0
+
+[submodule "oca/web"]
+	path = oca/web
+	url = git@github.com:oca/web.git
+	branch = 13.0
